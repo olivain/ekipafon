@@ -5,8 +5,8 @@ void writeString(char add, String data);
 String read_String(char add);
 void setup() {
 
-  String data = "jesuisun_vr41_mdfd7@2uif1flkdhsgshglqhdmlkjhgqlkjfdjesuislongmaisfdspofydsouqyfds";
-  String data2 = "foobarpute";
+  String data = "jdfd7@2uif1flkdhsgshglqhdmlkjhgqlkjfdjesuislongmaisfdspofydsouqyfds";
+  String data2 = "foobar";
   Serial.begin(9600);
   //writeString(0, data);
   delay(100);
